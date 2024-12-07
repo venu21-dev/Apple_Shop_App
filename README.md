@@ -70,5 +70,3 @@ Contributions are welcome! Please open an issue to report bugs or suggest new fe
 License:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-  
