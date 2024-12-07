@@ -17,7 +17,7 @@ The homepage showcases the four available products: Apple Vision, AirPods, iPhon
 3. Drawer
 The integrated navigation drawer offers easy access to various app functions and pages. Users can effortlessly navigate between different sections of the app, including product pages and the shopping cart.
 
-4. CartPage
+4. CartPage 
 The cart page allows users to review their selected products, adjust quantities, and complete the checkout process. The checkout is designed to be intuitive, ensuring a seamless user experience.
 
 ---------------------------------------------------------------------------------------------------------------------------
@@ -45,7 +45,7 @@ Installation & Usage
 
 1. Clone this repository:
 
--      git clone https://github.com/username/apple_shop_flutter.git
+-      git clone https://github.com/venu21-dev/Apple_Shop_App.git
 
 2. Navigate to the project directory:
 
